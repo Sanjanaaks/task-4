@@ -140,5 +140,5 @@ LEFT JOIN order_items oi ON p.product_id = oi.product_id;
 
 ## Notes
 - All queries are compatible with MySQL Workbench.  
-- Screenshots must be added in the `/screenshots/` folder with the same names as placeholders above.
+
 
